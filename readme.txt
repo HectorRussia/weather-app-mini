@@ -1,4 +1,5 @@
-file config 
+1.create file file config.js 
+2.in file below
 
 const constants = {
     openWeatherMap: 
